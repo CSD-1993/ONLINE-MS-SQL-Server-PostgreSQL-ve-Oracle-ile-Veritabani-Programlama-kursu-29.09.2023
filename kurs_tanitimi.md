@@ -21,11 +21,10 @@ Bu programa katılabilmek için daha önce programlama ile tanışmış olmanız
 Programın toplam süresi __100__ saattir. 
 
 ## Ders Günleri ve Saatleri
-Dersler hafta sonu __Cumartesi__Pazar__ günleri saat __21:00 – 00:00__ saatleri arasında __3 er__ saat olarak yapılacaktır.
-
+Dersler Cuma 19:30 - 22:30 ,Pazar  21:00 – 00:00 saatleri arasında yapılacaktır.
 
 ## Eğitim İçeriği
-[__Eğitim içeriğini bu bağlantıdan görebilirsiniz.__](https://github.com/CSD-1993/ONLINE-MS-SQL-Server-PostgreSQL-ve-Oracle-ile-Veritabani-Programlama-kursu-09.12.2022/blob/main/kurs_icerigi.md)
+[__Eğitim içeriğini bu bağlantıdan görebilirsiniz.__](https://github.com/CSD-1993/ONLINE-MS-SQL-Server-PostgreSQL-ve-Oracle-ile-Veritabani-Programlama-kursu-29.09.2023/blob/main/kurs_icerigi.md)
 
 ## Eğitmen
 Kurs __C ve Sistem Programcıları Derneği__ başkan yardımcısı __Oğuz Karan__ tarafından verilmektedir. 
@@ -70,10 +69,10 @@ Eğitim ve danışmanlık verdiği kurumlar arasında
 _MS-SQL Server, PostgreSQL ve Oracle ile Veritabanı Programlama_ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile _dropbox_ üzerinden paylaşılmaktadır.
 
 ## Eğitim Ücreti
-Programın toplam ücreti **KDV Dahil 5200 TL**‘dir. Öğrenci olanlara _(öğrencilik durumunu belgelemeleri kaydıyla)_ __4700 TL__  dir. Katılımcılar, eğitim programı ücretini dilerlerse __2 taksitte__ ödeyebilirler.
+Kursumuzun toplam ücreti KDV dahil 7.200 TL’dir (Peşin ödemede 6.450 TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil 6.450 TL’dir (Peşin ödemede 5.800 TL’dir). Kurs ücretini havale yöntemiyle peşin ya da 2 taksit olarak ödeyebilirsiniz.
 
 ## Eğitim Programına Kayıt
-[Katılım için önce ön kayıt yaptırmalısınız]( https://us02web.zoom.us/meeting/register/tZYqd-6trDMpEtVbSTVqvVE_XSnE0BDBO4-O ). Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
+[Katılım için önce ön kayıt yaptırmalısınız]( https://us02web.zoom.us/meeting/register/tZYkceCgpjMqHNRxy_8bLrEigN2FzGfiBvUh#/registration ). Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
 
 ## Sık Sorulan Sorular
-_MS-SQL Server, PostgreSQL ve Oracle ile Veritabanı Programlama_ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [__sık sorulan sorular__](https://github.com/CSD-1993/MS-SQL-Server-PostgreSQL-ve-Oracle-ile-Veritabani-Programlama-kursu-Eylul-2021/blob/main/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [_Oğuz Karan_ ile iletişime geçebilir](https://www.linkedin.com/in/o%C4%9Fuz-karan-28664b2b/) ya da ona bir [e-posta mesajı gönderebilirsiniz](mailto:oguzkaran@csystem.org)
+_MS-SQL Server, PostgreSQL ve Oracle ile Veritabanı Programlama_ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [__sık sorulan sorular__](https://github.com/CSD-1993/ONLINE-MS-SQL-Server-PostgreSQL-ve-Oracle-ile-Veritabani-Programlama-kursu-29.09.2023/blob/main/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [_Oğuz Karan_ ile iletişime geçebilir](https://www.linkedin.com/in/o%C4%9Fuz-karan-28664b2b/) ya da ona bir [e-posta mesajı gönderebilirsiniz](mailto:oguzkaran@csystem.org)
