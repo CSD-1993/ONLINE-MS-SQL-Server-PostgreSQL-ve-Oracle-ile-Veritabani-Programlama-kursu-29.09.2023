@@ -2,7 +2,6 @@
 
 + Bu kurs [__C ve Sistem Programcıları Derneği__](htpp://www.csystem.org) ve Sistem Bilgisayar işbirliği ile düzenlenmektedir. 
 
-+ __Covid19 Salgını__ ile yapılan düzenlemeler dahilinde kursa geçici olarak fiziksel katılım söz konusu değildir. Ancak salgına ilişkin koşullar ve yasal düzenlemeler değiştiğinde fiziksel katılım mümkün olacaktır.
 
 + Bu kurs katılımcıların özellikle _Veritabanı tasarımı ve programlamasını_çok iyi öğrenmelerini ve profesyonel olarak kullanmalarını hedeflemektedir.
 
