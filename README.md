@@ -4,7 +4,7 @@
 + Kursumuz 29 Eylül 2023 Cuma günü başlayacaktır.
 + Kurs eğitmeni __Oğuz Karan__'dır.
 + Kurs gerçek zamanlıdır.
-+ Toplam kurs süresi __100__ saattir. Dersler __Cuma 19:30 -22:30 ve Pazar__ günleri __21:00 - 00:00__ saatleri arasında yapılacaktır.
++ Toplam kurs süresi __100__ saattir. Dersler __Cuma 19:30 -22:30__ ve __Pazar__ günleri __21:00 - 00:00__ saatleri arasında yapılacaktır.
 
 ## Kursla ilgili bağlantılar
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/ONLINE-MS-SQL-Server-PostgreSQL-ve-Oracle-ile-Veritabani-Programlama-kursu-29.09.2023/blob/main/kurs_tanitimi.md)
